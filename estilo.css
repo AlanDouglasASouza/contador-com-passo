@@ -1,0 +1,33 @@
+body{
+    background: rgb(115, 115, 238);
+    font: 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.103);
+ }
+
+ input#cont {
+     margin: auto;
+     padding: 3px;
+     font-size: 12pt;   
+ }
+
+ div{
+     padding: 10px;
+ }
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
